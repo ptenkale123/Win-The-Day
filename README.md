@@ -1,4 +1,4 @@
-## Win The Day App- Project Description ##
+# Win The Day App- Project Description #
 The 'Win The Day' app allows users to keep track of their 'Power List' in every single day. The 'Power List' is 5 critical daily tasks that will help them build good habits and improve themselves.
 If you complete all 5 tasks on the list, that day is counted as a 'win' in the books. Otherwise, that day is counted as a 'loss'. 
 The goal is to achieve a winning record over the course of many months so that you are taking steps every single week to you bring you closer to your foals.
